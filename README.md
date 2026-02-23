@@ -6,7 +6,9 @@
 
 ## 📸 Preview
 
-![InvestPro Dashboard Preview](preview.png)
+![InvestPro Dashboard Preview](https://images.unsplash.com/photo-1611974717482-98252c6a45f7?q=80&w=2070&auto=format&fit=crop)
+
+> *Nota: Substitua esta imagem pelo seu próprio screenshot do dashboard.*
 
 ---
 
