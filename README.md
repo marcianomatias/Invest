@@ -1,20 +1,67 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# InvestPro Intelligence 🚀
 
-# Run and deploy your AI Studio app
+**InvestPro Intelligence** é uma plataforma avançada de análise financeira desenvolvida para investidores que buscam precisão, agilidade e insights inteligentes no mercado de Ações e Fundos Imobiliários (FIIs).
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/cce4250a-71d8-46cb-898e-38485873cb20
+## 🌟 Funcionalidades Principais
 
-## Run Locally
+- **📊 Dashboard em Tempo Real:** Acompanhe as variações do mercado com atualizações automáticas de preços a cada minuto.
+- **🤖 Insights com IA (Gemini):** Análises preditivas e fundamentadas geradas por inteligência artificial para cada ativo.
+- **🔍 Filtros Inteligentes:** Encontre as melhores oportunidades com filtros de Dividend Yield, P/VP, e o exclusivo algoritmo "Melhores Compras".
+- **🌓 Modo Dark & Light:** Interface adaptável para melhor conforto visual em qualquer ambiente.
+- **📱 Totalmente Responsivo:** Experiência otimizada para Desktop, Tablet e Mobile.
+- **📈 Gráficos Interativos:** Visualize o histórico de preços com gráficos elegantes e intuitivos.
+- **⚡ Busca Preditiva:** Localize ativos instantaneamente por Ticker ou Nome.
 
-**Prerequisites:**  Node.js
+---
 
+## 🛠️ Tecnologias Utilizadas
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- **Frontend:** [React 18](https://reactjs.org/) + [TypeScript](https://www.typescriptlang.org/)
+- **Estilização:** [Tailwind CSS](https://tailwindcss.com/)
+- **Animações:** [Framer Motion](https://www.framer.com/motion/)
+- **Gráficos:** [Recharts](https://recharts.org/)
+- **Ícones:** [Lucide React](https://lucide.dev/)
+- **IA:** [Google Gemini API](https://ai.google.dev/)
+- **Build Tool:** [Vite](https://vitejs.dev/)
+
+---
+
+## 🚀 Como Executar o Projeto
+
+1. **Instale as dependências:**
+   ```bash
+   npm install
+   ```
+
+2. **Configure as variáveis de ambiente:**
+   Crie um arquivo `.env` baseado no `.env.example` e adicione sua chave da API do Gemini:
+   ```env
+   GEMINI_API_KEY=sua_chave_aqui
+   ```
+
+3. **Inicie o servidor de desenvolvimento:**
+   ```bash
+   npm run dev
+   ```
+
+4. **Acesse no navegador:**
+   `http://localhost:3000`
+
+---
+
+## 👨‍💻 Criador
+
+Este projeto foi idealizado e desenvolvido por:
+
+**Marciano Matias** - *2026*
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+*InvestPro Intelligence - Transformando dados em decisões inteligentes.*
