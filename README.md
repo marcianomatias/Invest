@@ -4,6 +4,12 @@
 
 ---
 
+## 📸 Preview
+
+![InvestPro Dashboard Preview](preview.png)
+
+---
+
 ## 🌟 Funcionalidades Principais
 
 - **📊 Dashboard em Tempo Real:** Acompanhe as variações do mercado com atualizações automáticas de preços a cada minuto.
